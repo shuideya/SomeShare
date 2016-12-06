@@ -6,8 +6,8 @@
 
 ###  目录
 - [1.查](#查)
-    - [通用教程](#通用教程)
-    - [视频教程](#视频教程)
+    - [浏览器的使用技巧](#浏览器的使用技巧)
+    - [英语搜的技巧](#-英语搜的技巧)
 
 	-能get到一个点就是收获。大家也分享一些好的东西。
 	-分享的有些大家知道，也有不知道的。
@@ -27,7 +27,7 @@
 用谷歌最好，简单的，百科类的用百度。
 
 
--浏览器的使用技巧
+####-浏览器的使用技巧
 
 1. 熟练快捷键
 2. 空标签变写字板 data:text/html,<html contenteditable>
@@ -36,7 +36,7 @@
 5. 在可以多端同步的平台汇集自己的收藏，慢慢搭建知识索引库
 6. 尽量的脱离鼠标
 
--英语搜的技巧
+####-英语搜的技巧
 
 >
 1. stackoverflow
@@ -71,27 +71,10 @@
 
 
 
--搜索引擎的使用技巧
+####-搜索引擎的使用技巧
 
 1. 
 2. 
-
-####通用教程
-6，Ive tried multiple variations of this, but none of them seem to work. Any ideas? 试了很多种方法都无效，求助
-
-7，Wanted to know if it's good practice to do that and what would be the best way to do that? 我的做法是否正确，是否有更好的法子？
-
-8，Thanks in advance. 先行谢过
-
-回答问题：
-1，If I understand you correctly, you want to xxx 如果我没理解错，你想。。
-
-2，Can you provided more details about your use case ? Can you provide more xml and code setting the url ? 提供更详细
-
-当别人回答你的问题后，你对回答的评论：
-1，thank you for your answer sincerely 感谢回答blabla
-
-
 
 ###2.微信公众号
 
