@@ -103,6 +103,9 @@ some tips get一点点就是收获，加油~
 最开始用新浪博客写技术博客，当然比较 low
 后面用博客园
 你也可以自己搭个博客
+比如我的这个https://yfan.net/。
+还可以给这篇文章一个自己的连接。
+https://yfan.net/SomeShare/
 
 
 ###4.github
